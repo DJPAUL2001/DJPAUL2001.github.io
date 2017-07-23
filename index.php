@@ -10,8 +10,6 @@
       <meta name="keywords" content="nuke proliferation, Nuke, The end of the earth, History of Nukes, Modern Nukes">
       <meta name="description" content="What is Nuke Proliferation? Why should we care about it? And what are some possible consequences of it?">
 
-      <!--External CSS-->
-      <link rel="stylesheet" type="text/css" href="style.css"/>
   </head>
 
 
